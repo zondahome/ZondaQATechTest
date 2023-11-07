@@ -12,21 +12,14 @@ Create your own repository from this template by using the "Use this template" b
 Once you have created a new repository under your own github account containing the code from this template repo, clone it down to your computer so you can work on it.
 
 ### Api Setup
-Next you will need to create a NodeJS project for your API.
+Change into the Api folder (cd api) and run `npm install`
 
-If you are unfamiliar with the steps involved there are plenty of resources online (e.g. this and this).
+Then try running the app to confirm it is working: `npm start`
 
-We suggest that your API project is created in a folder called api alongside the existing web folder.
-
-Once you have got your API project up and running, copy the sample-data/subdivision.json file into your API folder.
-
-#### React App Setup
+### React App Setup
 Change into the React app folder (cd web) and run `npm install`
 
-Then try running the skeleton app to confirm it is working before you begin making changes: `npm start`
-
-### Submitting your work
-When you are finished, please ensure your repo is public so that we will be able to access it, and email us the github repo URL for us to review.
+Then try running the app to confirm it is working: `npm start`
 
 Glossary
 

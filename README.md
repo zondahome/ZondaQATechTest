@@ -32,13 +32,17 @@ As part of this, the candidate should also create a test plan outlining:
 
 The candidate should create the tests from (1.2) either in the provided code base utilising the existing tools, or using a different tool of their choosing i.e. chose the tool you would employ if you were a successful applicant.  The tests themselves will be covered during the follow-up interview where you will be expected to demo them.
 
-
 ### 3. Risk Assessment
 
 The candidate should also provide a brief risk assessment.  Risk assessment could cover:
 * Risk Identification: i.e. problems with Design, maintainability, performance...etc
 * Risk Severity: assign rating to identified risks in (1)
 * Risk Priority: assign rating to identified risks in (1)
+
+### 4. Submission
+
+1. Submit your solution to `1 Planning Test Case/Acceptance Criteria` and `3. Risk Assessment` via email to either David or Graeme. 
+2. If you have created test cases to the code base in `2 ImplementTest Case/Acceptance Criteria` please submit this ahead of the interview by creating your own repository (ensuring it is public) and add a link to your email.  Other-wise this will be covered and demo during the 2nd interview. 
 
 ### Assessment Criteria: 
 
