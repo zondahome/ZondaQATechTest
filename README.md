@@ -18,7 +18,7 @@ Your primary task in this examination is to develop a test plan for a basic soft
 
 The candidate should write Acceptance Criteria/Test Cases for the main components of the application: 
 * Filter field input
-* Searching
+* Sorting
 * Result validation
 
 The test cases can be provided in any format/notation the candidate prefers, the objective is to provide AC that could have been written/approved by Product on the original.
