@@ -13,11 +13,29 @@
     "@types/axios": "^0.14.0",
     "@types/express": "^4.17.17",
     "@types/morgan": "^1.9.5",
-    "axios": "^1.5.0",
-    "express": "^4.18.2",
+    "axios": "^1.15.0",
+    "express": "^4.21.2",
     "morgan": "^1.10.0",
     "nodemon": "^3.0.1",
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2"
+  },
+  "overrides": {
+    "axios": "^1.15.0",
+    "body-parser": "^1.20.3",
+    "brace-expansion@2": "^2.0.3",
+    "cookie": "^0.7.0",
+    "diff": "^4.0.4",
+    "express": "^4.21.2",
+    "follow-redirects": "^1.16.0",
+    "form-data": "^4.0.4",
+    "minimatch@3": "^3.1.4",
+    "minimatch@5": "^5.1.8",
+    "on-headers": "^1.1.0",
+    "path-to-regexp": "^0.1.13",
+    "picomatch": "^2.3.2",
+    "qs": "^6.14.2",
+    "send": "^0.19.0",
+    "serve-static": "^1.16.0"
   }
 }
